@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvi Agrawal</h1>
-<h3 align="center">A passionate Data Analyst from India, with a passion for uncovering insights and making data-driven decisions. I thrive on transforming raw data into actionable strategies and meaningful stories. Let's connect and harness the power of data together! 📊</h3>
+<h3 align="center">A dedicated Data Analyst from India, with a passion for uncovering insights and making data-driven decisions. I thrive on transforming raw data into actionable strategies and meaningful stories. Let's connect and harness the power of data together! 📊</h3>
 
 - 🌱 I’m currently learning at **Masai School**
 
